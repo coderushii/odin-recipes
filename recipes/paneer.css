@@ -1,0 +1,39 @@
+/* paneer.css */
+
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff8e1;
+    color: #333;
+
+}
+h1,h2,h3,h4 {
+    color: #021213;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: #0277bd;
+    font-weight: bold;
+    padding: 5px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+p {
+    font-size: 18px;
+    margin: 10px;
+    text-align: center;
+}
+ul {
+    font-size: 18px;
+    margin: 10px 40px;
+}
+li {
+    margin: 10px 50px;
+    font-size: 18px;
+}
