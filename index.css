@@ -1,0 +1,22 @@
+/* index.css */
+
+body {
+    font-family: sans-serif;
+    background-color: #f3d5bd;
+    margin: 20px;
+    padding: 20px;
+}
+h1 {
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+p {
+    font-size: 18px;
+    padding: 5px;
+    
+}
